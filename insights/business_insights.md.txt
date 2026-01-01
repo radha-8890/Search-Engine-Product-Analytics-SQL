@@ -1,0 +1,11 @@
+# Business Insights – Search Engine Product Analytics
+
+## Key Findings
+- A small group of users contributes significantly to ad revenue.
+- Certain search queries consistently generate higher engagement and revenue.
+- Ad clicks are strongly correlated with user activity.
+
+## Business Recommendations
+- Prioritize high-performing advertisers and optimize bidding strategies.
+- Improve personalization for high-value users.
+- Promote high-conversion search queries to increase overall revenue.
